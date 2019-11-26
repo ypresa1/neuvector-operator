@@ -1,0 +1,11 @@
+apiVersion: v1
+appVersion: 3.0.0
+description: NeuVector Container Security Platform includes layer 7 container firewall,
+  end-to-end vulnerability scanning, and container process/file monitoring.
+engine: gotpl
+home: https://neuvector.com
+maintainers:
+- email: xfsun@neuvector.com
+  name: Sun
+name: neuvector
+version: 1.4.0

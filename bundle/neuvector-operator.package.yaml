@@ -1,0 +1,4 @@
+packageName: neuvector-operator
+channels:
+  - name: alpha
+    currentCSV: neuvector-operator.v0.0.1

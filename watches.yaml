@@ -1,0 +1,5 @@
+---
+- version: v1alpha1
+  group: apm.neuvector.com
+  kind: Neuvector
+  chart: /opt/helm/helm-charts/neuvector
